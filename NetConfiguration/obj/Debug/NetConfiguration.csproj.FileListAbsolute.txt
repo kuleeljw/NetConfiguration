@@ -1,0 +1,10 @@
+D:\Projects\git\DotNet\NetConfiguration\NetConfiguration\bin\Debug\NetConfiguration.exe.config
+D:\Projects\git\DotNet\NetConfiguration\NetConfiguration\bin\Debug\NetConfiguration.exe
+D:\Projects\git\DotNet\NetConfiguration\NetConfiguration\bin\Debug\NetConfiguration.pdb
+D:\Projects\git\DotNet\NetConfiguration\NetConfiguration\obj\Debug\NetConfiguration.csprojAssemblyReference.cache
+D:\Projects\git\DotNet\NetConfiguration\NetConfiguration\obj\Debug\NetConfiguration.Form1.resources
+D:\Projects\git\DotNet\NetConfiguration\NetConfiguration\obj\Debug\NetConfiguration.Properties.Resources.resources
+D:\Projects\git\DotNet\NetConfiguration\NetConfiguration\obj\Debug\NetConfiguration.csproj.GenerateResource.cache
+D:\Projects\git\DotNet\NetConfiguration\NetConfiguration\obj\Debug\NetConfiguration.csproj.CoreCompileInputs.cache
+D:\Projects\git\DotNet\NetConfiguration\NetConfiguration\obj\Debug\NetConfiguration.exe
+D:\Projects\git\DotNet\NetConfiguration\NetConfiguration\obj\Debug\NetConfiguration.pdb

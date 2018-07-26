@@ -1,0 +1,9 @@
+D:\Projects\git\DotNet\NetConfiguration\NetConfiguration\bin\Release\NetConfiguration.exe.config
+D:\Projects\git\DotNet\NetConfiguration\NetConfiguration\bin\Release\NetConfiguration.exe
+D:\Projects\git\DotNet\NetConfiguration\NetConfiguration\bin\Release\NetConfiguration.pdb
+D:\Projects\git\DotNet\NetConfiguration\NetConfiguration\obj\Release\NetConfiguration.Form1.resources
+D:\Projects\git\DotNet\NetConfiguration\NetConfiguration\obj\Release\NetConfiguration.Properties.Resources.resources
+D:\Projects\git\DotNet\NetConfiguration\NetConfiguration\obj\Release\NetConfiguration.csproj.GenerateResource.cache
+D:\Projects\git\DotNet\NetConfiguration\NetConfiguration\obj\Release\NetConfiguration.csproj.CoreCompileInputs.cache
+D:\Projects\git\DotNet\NetConfiguration\NetConfiguration\obj\Release\NetConfiguration.exe
+D:\Projects\git\DotNet\NetConfiguration\NetConfiguration\obj\Release\NetConfiguration.pdb
